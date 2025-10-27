@@ -1,0 +1,7 @@
+Un nodo que se encargue de manejar los estados rotar y avanzar.
+Debe avanzar hasta que los sensores ven que hay algo cerca.
+El paquete debe tener un nodo que mande los comandos de cmd_vel.
+
+/scan --> sensor_msgs.msg.LaserScan
+/calc_odom --> nav_msgs.msg.odometry
+/cmd_vel --> geometry_msgs.msg.Twist
