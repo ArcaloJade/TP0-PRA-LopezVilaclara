@@ -12,7 +12,7 @@ import time
 class Part0Node(Node):
 
     def __init__(self):
-        super().__init__('Part0Node')
+        super().__init__('p0_node')
 
         # Flag para cambiar los robots, si es False uso el turtlebot4
         self.declare_parameter('is_turtlebot3', True)

@@ -20,6 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'p0_node = tpf_part0.p0_node:main',
         ],
     },
 )

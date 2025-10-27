@@ -1,0 +1,36 @@
+[0.317s] Invoking command in '/home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/src/tpf_part0': PYTHONPATH=/home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/build/tpf_part0/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/install/tpf_part0/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tpf_part0 build --build-base /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/build/tpf_part0/build install --record /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/build/tpf_part0/install.log --single-version-externally-managed install_data
+[0.416s] running egg_info
+[0.416s] creating ../../build/tpf_part0/tpf_part0.egg-info
+[0.416s] writing ../../build/tpf_part0/tpf_part0.egg-info/PKG-INFO
+[0.416s] writing dependency_links to ../../build/tpf_part0/tpf_part0.egg-info/dependency_links.txt
+[0.416s] writing entry points to ../../build/tpf_part0/tpf_part0.egg-info/entry_points.txt
+[0.416s] writing requirements to ../../build/tpf_part0/tpf_part0.egg-info/requires.txt
+[0.416s] writing top-level names to ../../build/tpf_part0/tpf_part0.egg-info/top_level.txt
+[0.416s] writing manifest file '../../build/tpf_part0/tpf_part0.egg-info/SOURCES.txt'
+[0.417s] reading manifest file '../../build/tpf_part0/tpf_part0.egg-info/SOURCES.txt'
+[0.417s] writing manifest file '../../build/tpf_part0/tpf_part0.egg-info/SOURCES.txt'
+[0.417s] running build
+[0.417s] running build_py
+[0.417s] creating /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/build/tpf_part0/build
+[0.417s] creating /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/build/tpf_part0/build/lib
+[0.417s] creating /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/build/tpf_part0/build/lib/tpf_part0
+[0.417s] copying tpf_part0/p0_node.py -> /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/build/tpf_part0/build/lib/tpf_part0
+[0.417s] copying tpf_part0/__init__.py -> /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/build/tpf_part0/build/lib/tpf_part0
+[0.417s] running install
+[0.417s] running install_lib
+[0.418s] creating /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/install/tpf_part0/lib/python3.10/site-packages/tpf_part0
+[0.418s] copying /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/build/tpf_part0/build/lib/tpf_part0/p0_node.py -> /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/install/tpf_part0/lib/python3.10/site-packages/tpf_part0
+[0.418s] copying /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/build/tpf_part0/build/lib/tpf_part0/__init__.py -> /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/install/tpf_part0/lib/python3.10/site-packages/tpf_part0
+[0.418s] byte-compiling /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/install/tpf_part0/lib/python3.10/site-packages/tpf_part0/p0_node.py to p0_node.cpython-310.pyc
+[0.419s] byte-compiling /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/install/tpf_part0/lib/python3.10/site-packages/tpf_part0/__init__.py to __init__.cpython-310.pyc
+[0.419s] running install_data
+[0.419s] creating /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/install/tpf_part0/share/ament_index
+[0.419s] creating /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/install/tpf_part0/share/ament_index/resource_index
+[0.419s] creating /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/install/tpf_part0/share/ament_index/resource_index/packages
+[0.419s] copying resource/tpf_part0 -> /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/install/tpf_part0/share/ament_index/resource_index/packages
+[0.419s] copying package.xml -> /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/install/tpf_part0/share/tpf_part0
+[0.419s] running install_egg_info
+[0.420s] Copying ../../build/tpf_part0/tpf_part0.egg-info to /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/install/tpf_part0/lib/python3.10/site-packages/tpf_part0-0.0.0-py3.10.egg-info
+[0.420s] running install_scripts
+[0.429s] writing list of installed files to '/home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/build/tpf_part0/install.log'
+[0.440s] Invoked command in '/home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/src/tpf_part0' returned '0': PYTHONPATH=/home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/build/tpf_part0/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/install/tpf_part0/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tpf_part0 build --build-base /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/build/tpf_part0/build install --record /home/alumno1/Documents/TP0-PRA-LopezVilaclara/ros2_ws/build/tpf_part0/install.log --single-version-externally-managed install_data
