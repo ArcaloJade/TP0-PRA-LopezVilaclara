@@ -23,7 +23,7 @@ class Part0Node(Node):
         self.rotation_speed = 1.0     # rad/s
         self.obstacle_distance_thresh = 0.5  # m
 
-        # Ángulo de rotación objetivo (grados) base (antes del ajuste de TB4)
+        # Ángulo de rotación objetivo (grados)
         self.base_turn_deg = 110.0
 
         # Matriz de transformación
